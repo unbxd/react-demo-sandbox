@@ -1,6 +1,6 @@
 import React, { useState, useContext } from 'react';
 import Select from 'react-select';
-import { SearchBox } from '../../../src/index';
+import { SearchBox } from '../../public/dist/js/main';
 import { useHistory } from 'react-router-dom';
 import { ProductTypeContext } from '../context';
 import CategoryLinks from './CategoryLinks';

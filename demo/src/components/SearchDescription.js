@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { SearchTitle } from '../../../src/index';
+import { SearchTitle } from '../../public/dist/js/main';
 
 export const SearchTitleItem = (props) => {
     const { searchQuery, start, productsLn, numberOfProducts } = props;

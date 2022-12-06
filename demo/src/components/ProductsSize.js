@@ -1,6 +1,6 @@
 import React from 'react';
 import Select from 'react-select';
-import { PageSize } from '../../../src/index';
+import { PageSize } from '../../public/dist/js/main';
 
 export const sizeOptions = [
     { id: 5, value: '5', label: '5' },

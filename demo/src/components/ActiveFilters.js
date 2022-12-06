@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import React from 'react';
 
-import { SelectedFacets } from '../../../src/index';
+import { SelectedFacets } from '../../public/dist/js/main';
 
 export const FacetItemComponent = ({ itemData, onClick, priceUnit }) => {
     const { name, type, dataId, facetName } = itemData;

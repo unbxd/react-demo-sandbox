@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { MultilevelFacets } from '../../../src/index';
+import { MultilevelFacets } from '../../public/dist/js/main';
 import { scrollTop } from '../utils';
 
 export const FacetItemComponent = ({ itemData, onClick }) => {

@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { TextFacets } from '../../../src/index';
+import { TextFacets } from '../../public/dist/js/main';
 import { scrollTop } from '../utils';
 
 export const transform = function () {

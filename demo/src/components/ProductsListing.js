@@ -1,6 +1,6 @@
 import React, { useState, useContext, useEffect } from 'react';
 
-import { Products } from '../../../src/index';
+import { Products } from '../../public/dist/js/main';
 import { ProductTypeContext } from '../context';
 
 const attributesMap = {

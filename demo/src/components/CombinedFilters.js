@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { CombinedFacets } from '../../../src/index';
+import { CombinedFacets } from '../../public/dist/js/main';
 import { FacetItemComponent as TextFacetItemComponent } from './TextFilters';
 import { FacetItemComponent as RangeFacetItemComponent } from './RangeFilters';
 import { FacetItemComponent as MultilevelFacetItemComponent } from './MultilevelFilters';

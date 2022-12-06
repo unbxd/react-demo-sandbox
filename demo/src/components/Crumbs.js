@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Breadcrumbs } from '../../../src/index';
+import { Breadcrumbs } from '../../public/dist/js/main';
 
 export const BreadcrumbItemComponent = ({
     itemData,

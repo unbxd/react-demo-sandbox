@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-import { RangeFacets } from '../../../src/index';
+import { RangeFacets } from '../../public/dist/js/main';
 import { RangeSlider } from '../common/components';
 import { scrollTop } from '../utils';
 

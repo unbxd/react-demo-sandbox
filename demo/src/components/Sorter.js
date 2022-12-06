@@ -1,6 +1,6 @@
 import React from 'react';
 import Select from 'react-select';
-import { Sort } from '../../../src/index';
+import { Sort } from '../../public/dist/js/main';
 
 export const sortOptions = [
     {

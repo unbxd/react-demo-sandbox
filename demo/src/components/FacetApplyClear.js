@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { FacetActions } from '../../../src/index';
+import { FacetActions } from '../../public/dist/js/main';
 import { scrollTop } from '../utils';
 
 export const ApplyFilter = ({ onApplyFilter }) => (

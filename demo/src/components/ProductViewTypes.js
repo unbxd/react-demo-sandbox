@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { ViewTypes } from '../../../src/index';
+import { ViewTypes } from '../../public/dist/js/main';
 
 const viewTypes = ['GRID', 'LIST'];
 

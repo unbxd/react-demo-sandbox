@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { SpellCheck } from '../../../src/index';
+import { SpellCheck } from '../../public/dist/js/main';
 import { scrollTop } from '../utils';
 
 export const SpellCheckItemComponent = (props) => {

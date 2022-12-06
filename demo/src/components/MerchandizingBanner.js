@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Banners } from '../../../src/index';
+import { Banners } from '../../public/dist/js/main';
 
 export const BannerItemComponent = ({ itemData }) => {
     const { imageUrl, landingUrl } = itemData;

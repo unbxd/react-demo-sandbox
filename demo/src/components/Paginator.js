@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Pagination } from '../../../src/index';
+import { Pagination } from '../../public/dist/js/main';
 import { scrollTop } from '../utils';
 
 export const PaginationItemComponent = ({ itemData, onClick }) => {

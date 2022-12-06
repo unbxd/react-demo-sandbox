@@ -2,7 +2,7 @@ import React, { useState, useContext } from 'react';
 import { Route, useHistory, useLocation } from 'react-router-dom';
 
 
-import UnbxdSearchWrapper from '../../../src/index';
+import UnbxdSearchWrapper from '../../public/dist/js/main';
 
 import Strings from './Strings';
 import Balls from './Balls';
