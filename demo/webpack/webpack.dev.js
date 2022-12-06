@@ -74,6 +74,8 @@ module.exports = {
         open: false,
         hot: true,
         port: 6969,
-        historyApiFallback: true
+        historyApiFallback: true,
+        disableHostCheck: true,
+        allowedHosts: ["https://lz3333-6969.preview.csb.app/"]
     }
 };

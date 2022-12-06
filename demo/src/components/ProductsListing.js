@@ -6,7 +6,7 @@ import { ProductTypeContext } from '../context';
 const attributesMap = {
     title: 'title',
     uniqueId: 'uniqueId',
-    imageUrl: 'productImage',
+    imageUrl: 'imageUrl',
     sellingPrice: 'sortPrice',
     productUrl: 'productUrl',
     unbxd_color_mapping: 'unbxd_color_mapping'

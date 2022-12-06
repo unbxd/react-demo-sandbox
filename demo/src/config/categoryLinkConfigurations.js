@@ -8,12 +8,6 @@ const categoryLinks = [
         path: 'itemGroupIds:185',
         id: 'accessories',
         label: 'Jeans'
-    },
-    { path: 'categoryPath:cat740011', id: 'grips', label: 'New' },
-    {
-        path: 'categoryPath:cat120002',
-        id: 'balls',
-        label: 'Sale '
     }
 ];
 
