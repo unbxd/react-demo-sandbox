@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { ViewTypes } from '../../public/dist/js/main';
+import { ViewTypes } from '@unbxd-ui/react-search-sdk';
 
 const viewTypes = ['GRID', 'LIST'];
 

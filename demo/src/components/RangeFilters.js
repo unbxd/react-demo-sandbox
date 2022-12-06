@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-import { RangeFacets } from '../../public/dist/js/main';
+import { RangeFacets } from '@unbxd-ui/react-search-sdk';
 import { RangeSlider } from '../common/components';
 import { scrollTop } from '../utils';
 

@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { SpellCheck } from '../../public/dist/js/main';
+import { SpellCheck } from '@unbxd-ui/react-search-sdk';
 import { scrollTop } from '../utils';
 
 export const SpellCheckItemComponent = (props) => {

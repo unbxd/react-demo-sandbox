@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { SearchTitle } from '../../public/dist/js/main';
+import { SearchTitle } from '@unbxd-ui/react-search-sdk';
 
 export const SearchTitleItem = (props) => {
     const { searchQuery, start, productsLn, numberOfProducts } = props;
