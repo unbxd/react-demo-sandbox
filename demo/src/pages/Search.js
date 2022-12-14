@@ -97,8 +97,11 @@ const Search = () => {
 
   return (
     <UnbxdSearchWrapper
-      siteKey="prod-frenchbedroomcompany11861619415887"
-      apiKey="62f8c3f47421a605fc5d1d1be55ae936"
+      // siteKey="prod-frenchbedroomcompany11861619415887"
+      // apiKey="62f8c3f47421a605fc5d1d1be55ae936"
+      siteKey="ss-unbxd-gcp-Gardner-White-STG8241646781056"
+      // siteKey: "ss-unbxd-as814131659518951",
+      apiKey="e2082aeb3a7f0ac8955c879daf7673e8"
       // siteKey="ss-unbxd-as814131659518951"
       // apiKey="f2613b5146ded7f5c5b66abedb8dba90"
       getCategoryId={getCategoryId}
