@@ -127,9 +127,6 @@ const Search = () => {
         refreshId={refreshId}
         setRefreshId={setRefreshId}
       />
-      <button type="button" onClick={handleChange}>
-        change
-      </button>
       <Route exact path="/">
         <Home setRefreshId={setRefreshId} />
       </Route>

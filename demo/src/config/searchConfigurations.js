@@ -18,8 +18,7 @@ const searchConfigurations = {
   enableUnbxdAnalytics: true,
   allowExternalUrlParams: true,
   defaultFilters: null,
-  pageSize: 30,
-  allowExternalUrlParams: true,
+  pageSize: 20,
 };
 
 export default searchConfigurations;
