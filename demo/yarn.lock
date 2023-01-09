@@ -1269,20 +1269,20 @@
     anymatch "^3.0.0"
     source-map "^0.6.0"
 
-"@unbxd-ui/react-search-sdk@1.2.24-beta.2":
-  version "1.2.24-beta.2"
-  resolved "https://registry.yarnpkg.com/@unbxd-ui/react-search-sdk/-/react-search-sdk-1.2.24-beta.2.tgz#fa5f6d5e0647ad5b0cfaf7ab2ace67de35f4b471"
-  integrity sha512-KBJSm+n3ADADL9135s1dxLsAg/IKx2aWOi52soVlNdqqZETb6bCyp17P3CrdOXTNIAj60Bo9sn75hyznwYitiA==
+"@unbxd-ui/react-search-sdk@1.2.24-beta.3":
+  version "1.2.24-beta.3"
+  resolved "https://registry.yarnpkg.com/@unbxd-ui/react-search-sdk/-/react-search-sdk-1.2.24-beta.3.tgz#07d5c2cfd1de870f9b0b5b39da1f51885e9319fd"
+  integrity sha512-7tnS0UGAliPfidVTHYgZuXnZIVI7eKiaH7koJWIbnwrR8beYlPtQYyQyTaBDmKG1yY6l6ACt39BH+g71qLVmXQ==
   dependencies:
     "@babel/plugin-transform-runtime" "^7.12.10"
     "@storybook/theming" "^6.2.9"
-    "@unbxd-ui/unbxd-search-core" "0.4.22-beta.3"
+    "@unbxd-ui/unbxd-search-core" "0.4.22-beta.4"
     prop-types "^15.7.2"
 
-"@unbxd-ui/unbxd-search-core@0.4.22-beta.3":
-  version "0.4.22-beta.3"
-  resolved "https://registry.yarnpkg.com/@unbxd-ui/unbxd-search-core/-/unbxd-search-core-0.4.22-beta.3.tgz#d7a9a2820b2f8091d4b47663d7df785d432709af"
-  integrity sha512-1e5yknWvRjUAhO2TaGi9rB1EwVUjc3jJizxxSGmNqZEzXOWIQQi+MXpV7n19/qm0Dy1OcwPnTGspZA/bm54PvQ==
+"@unbxd-ui/unbxd-search-core@0.4.22-beta.4":
+  version "0.4.22-beta.4"
+  resolved "https://registry.yarnpkg.com/@unbxd-ui/unbxd-search-core/-/unbxd-search-core-0.4.22-beta.4.tgz#95b0186c88995537b53edf1bbb90cde6f3ef1e18"
+  integrity sha512-5zLIvL9bxihzMBwwRAwKuOZGqIU0Y9+Z6vIqXJykOsS9gNfOcn/DoENbHCoH21hNpJTwv01REvhGhDI2r7DT8g==
   dependencies:
     babel-polyfill "^6.26.0"
     babel-runtime "^6.26.0"
@@ -4936,9 +4936,9 @@ json-stringify-safe@~5.0.1:
   integrity sha512-ZClg6AaYvamvYEE82d3Iyd3vSSIjQ+odgjaTzRuO3s7toCdFKczob2i0zCh7JE8kWn17yvAWhUVxvqGwUalsRA==
 
 json5@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/json5/-/json5-1.0.1.tgz#779fb0018604fa854eacbf6252180d83543e3dbe"
-  integrity sha512-aKS4WQjPenRxiQsC93MNfjx+nbF4PAdYzmd/1JIj8HYzqfbu86beTuNgXDzPknWk0n0uARlyewZo4s++ES36Ow==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/json5/-/json5-1.0.2.tgz#63d98d60f21b313b77c4d6da18bfa69d80e1d593"
+  integrity sha512-g1MWMLBiz8FKi1e4w0UyVL3w+iJceWAFBAaBnnGKOpNa5f8TLktkbre1+s6oICydWAm+HRUGTmI+//xv2hvXYA==
   dependencies:
     minimist "^1.2.0"
 
